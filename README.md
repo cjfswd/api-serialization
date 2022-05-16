@@ -5,10 +5,10 @@ CSV, XML, JSON, YAML
 
 # frontend
 
-[CSV.js](https://github.com/DaoDeCyrus/CSV.js)<br>
-[xmlToJson](https://github.com/SummersRemote/xmlToJSON)<br>
-[yaml.js](https://github.com/h4evr/commonjs-javascript-yaml-parser)
+[csv](https://github.com/DaoDeCyrus/CSV.js)<br>
+[xml](https://github.com/SummersRemote/xmlToJSON)<br>
+[yaml](https://github.com/h4evr/commonjs-javascript-yaml-parser)
 
 # backend
 
-[parser blade](https://github.com/onhernandes/parserblade)
+[csv, xml, yaml](https://github.com/onhernandes/parserblade)
