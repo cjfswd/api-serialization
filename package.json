@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.1.2",
+    "autoprefixer": "^10.4.7",
+    "nuxt": "3.0.0-rc.3",
+    "postcss": "^8.4.14"
+  },
+  "dependencies": {
+    "@highlightjs/vue-plugin": "^2.0.1",
+    "@mdi/font": "^6.7.96",
+    "animate.css": "^4.1.1",
+    "parserblade": "^1.2.0",
+    "sass": "^1.52.1",
+    "vue-inline-svg": "^3.1.0",
+    "highlight.js": "^11.5.1",
+    "yamlify-object": "^0.6.0"
+  }
+}
